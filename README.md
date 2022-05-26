@@ -4,9 +4,10 @@
 - 📖 Atualmente estudando na Universidade federal de São joão del-rei.
 - 🔭 Atualmente estou trabalhando em --CARREGANDO...--
 - 🌱 Atualmente estou aprendendo Reactjs / React-Native
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 - 📫 Como entrar em contato comigo: junior.emerson5@hotmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Amante de segurança da informação / Amante de desenvolvimento de jogos
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+
           
