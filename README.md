@@ -8,4 +8,5 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Amante de segurança da informação / Amante de desenvolvimento de jogos
 
-<i class="devicon-react-original-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
