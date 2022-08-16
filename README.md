@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou trabalhando em ** CARREGANDO...
 - 🌱 Atualmente estou aprendendo Reactjs / React-Native
 - 📫 Como entrar em contato comigo: junior.emerson5@hotmail.com
-- 😄 Pronomes: Ele/Dele
+<!-- - 😄 Pronomes: Ele/Dele -->
 - ⚡ Curiosidade: Amante de segurança da informação / Amante de desenvolvimento de jogos
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
