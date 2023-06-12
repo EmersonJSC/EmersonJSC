@@ -1,5 +1,5 @@
 ## Olá, me chamo Emerson Costa 👋
-### Bem vindo ao meu perfil no GitHub, divirta-se!!
+### Bem vindo ao meu perfil no GitHub!!
 
 - 📖 Atualmente estudando na Universidade federal de São joão del-rei.
 - 🔭 Atualmente estou trabalhando como estagiario no NEAD - UFSJ.
