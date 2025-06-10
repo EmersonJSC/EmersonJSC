@@ -2,7 +2,6 @@
 ### Bem vindo ao meu perfil no GitHub!!
 
 - 📖 Atualmente estudando na Universidade federal de São joão del-rei.
-- 🔭 Atualmente estou trabalhando como estagiario no NEAD - UFSJ.
 - 🌱 Atualmente estou aprendendo Reactjs / React-Native
 - 📫 Como entrar em contato comigo: junior.emerson5@hotmail.com
 <!-- - 😄 Pronomes: Ele/Dele -->
