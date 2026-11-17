@@ -3,7 +3,7 @@
 
 - 📖 Atualmente estudando na Universidade federal de São joão del-rei.
 - 🌱 Atualmente estou aprendendo Reactjs / React-Native
-- 📫 Como entrar em contato comigo: junior.emerson5@hotmail.com
+- 📫 Como entrar em contato comigo: junior.emerson5@live.com
 <!-- - 😄 Pronomes: Ele/Dele -->
 - ⚡ Curiosidade: Amante de segurança da informação / Amante de desenvolvimento de jogos
 
